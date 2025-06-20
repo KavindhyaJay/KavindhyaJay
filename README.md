@@ -1,6 +1,6 @@
 <div align="center">
  <h3>Hi there!👋🤩 I’m Kavindhya Jayarathne</h3> 
-1st year Electronics and Computer Science undergraduate,at University of Kelaniya 🏤
+3rd year Electronics and Computer Science undergraduate,at University of Kelaniya 🏤
 </div>
 <hr/>
 
