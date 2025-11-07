@@ -24,12 +24,7 @@
   </p>
 
 
-  <p align="center">
-    <a href="https://github.com/KavindhyaJay/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KavindhyaJay&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="GitHub Languages">
-    </a>
-    </a>
-  </p>
+ 
 
  <p align="center">
    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=KavindhyaJay&theme=onedark" alt="iit21373848" /></a>
