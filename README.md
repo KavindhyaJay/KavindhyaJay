@@ -19,8 +19,7 @@ Final-year Electronics and Computer Science undergraduate at the University of K
  <h4> Tech Stack</h4>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KavindhyaJay&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KavindhyaJay&layout=compact&theme=tokyonight" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,C,C++,react,mysql,github,vscode,php,anaconda,mongodb" />
 </p>
 </div>
 
