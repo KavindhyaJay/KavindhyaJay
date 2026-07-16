@@ -1,6 +1,6 @@
 <div align="center">
- <h3>Hi there!👋🤩 I’m Kavindhya Jayarathne</h3> 
-3rd year Electronics and Computer Science undergraduate,at University of Kelaniya 🏤
+ <h3>Hi there!👋🤩 I’m Kavindhya Jayarathne</h3>  
+Final-year Electronics and Computer Science undergraduate at the University of Kelaniya 🏤 with a strong interest in Artificial Intelligence, Machine Learning, and Data Science. Skilled in Python, Deep Learning, Generative AI, LLMs, RAG and modern AI technologies. Passionate about building intelligent solutions, continuous learning, and applying technology to solve real-world challenges. 
 </div>
 <hr/>
 
@@ -19,7 +19,8 @@
  <h4> Tech Stack</h4>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,mysql,github,vscode,php,anaconda,mongodb" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KavindhyaJay&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KavindhyaJay&layout=compact&theme=tokyonight" />
 </p>
 </div>
 
